@@ -2,13 +2,12 @@
 
 PROGETTO DI ECONOMIA ED ORGANIZZAZIONE AZIENDALE
 
-Alessia Lazzari, Matricola 1078863					                                                                                                    	Dalmine, 25/08/2022
-Nota Bene: per utilizzare il programma è necessario utilizzare una macchina con sistema operativo Windows.
+Alessia Lazzari, Matricola 1078863					                                                                                                    	
+Dalmine, 25/08/2022
 
 Introduzione
 Sono state oggetto di studio di questo corso le decisioni di breve periodo, ovvero quelle decisioni che presentano, almeno in prima approssimazione, effetti limitati nel tempo. 
-L'analisi delle decisioni di breve periodo consente delle semplificazioni rispetto alla più complessa analisi degli investimenti: è possibile trascurare la distribuzione temporale degli eventi oggetto di
-valutazione; le risorse disponibili per l'impresa si considerano “date”; i ricavi coincidono con gli incassi e gli acquisti con i costi.
+L'analisi delle decisioni di breve periodo consente delle semplificazioni rispetto alla più complessa analisi degli investimenti: è possibile trascurare la distribuzione temporale degli eventi oggetto di valutazione; le risorse disponibili per l'impresa si considerano “date”; i ricavi coincidono con gli incassi e gli acquisti con i costi.
 La pianificazione di breve periodo ha per oggetto la determinazione del mix produttivo. In questo ambito il modello di riferimento è rappresentato dal calcolo del punto di Break Even (o analisi del punto di pareggio). 
 L'analisi di Break Even ha la finalità di individuare il minimo volume che consente all'impresa di coprire i costi: determinare il punto di Break Even significa quindi individuare il punto in cui i costi eguagliano i ricavi. Ne deriva dunque che il punto di Break Even si ottiene imponendo un Margine Operativo Netto (MON) nullo.
 
