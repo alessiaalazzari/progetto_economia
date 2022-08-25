@@ -3,7 +3,7 @@
 PROGETTO DI ECONOMIA ED ORGANIZZAZIONE AZIENDALE
 
 Alessia Lazzari, Matricola 1078863					                                                                                                    	
-Dalmine, 25/08/2022
+Dalmine, 25/08/2022 
 
 Introduzione
 Sono state oggetto di studio di questo corso le decisioni di breve periodo, ovvero quelle decisioni che presentano, almeno in prima approssimazione, effetti limitati nel tempo. 
