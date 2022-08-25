@@ -1,6 +1,8 @@
 # progetto economia
+
 PROGETTO DI ECONOMIA ED ORGANIZZAZIONE AZIENDALE
-Alessia Lazzari, Matricola 1078863						Dalmine, 25/08/2022
+
+Alessia Lazzari, Matricola 1078863					                                                                                                    	Dalmine, 25/08/2022
 Nota Bene: per utilizzare il programma è necessario utilizzare una macchina con sistema operativo Windows.
 
 Introduzione
