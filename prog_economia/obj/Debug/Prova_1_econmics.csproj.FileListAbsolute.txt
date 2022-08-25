@@ -1,0 +1,10 @@
+C:\Users\COVID-19\OneDrive - unibg.it\uni\Economia\project\test_1\Prova_1_econmics\Prova_1_econmics\bin\Debug\Prova_1_econmics.exe.config
+C:\Users\COVID-19\OneDrive - unibg.it\uni\Economia\project\test_1\Prova_1_econmics\Prova_1_econmics\bin\Debug\Prova_1_econmics.exe
+C:\Users\COVID-19\OneDrive - unibg.it\uni\Economia\project\test_1\Prova_1_econmics\Prova_1_econmics\bin\Debug\Prova_1_econmics.pdb
+C:\Users\COVID-19\OneDrive - unibg.it\uni\Economia\project\test_1\Prova_1_econmics\Prova_1_econmics\obj\Debug\Prova_1_econmics.csprojAssemblyReference.cache
+C:\Users\COVID-19\OneDrive - unibg.it\uni\Economia\project\test_1\Prova_1_econmics\Prova_1_econmics\obj\Debug\Prova_1_econmics.Form1.resources
+C:\Users\COVID-19\OneDrive - unibg.it\uni\Economia\project\test_1\Prova_1_econmics\Prova_1_econmics\obj\Debug\Prova_1_econmics.Properties.Resources.resources
+C:\Users\COVID-19\OneDrive - unibg.it\uni\Economia\project\test_1\Prova_1_econmics\Prova_1_econmics\obj\Debug\Prova_1_econmics.csproj.GenerateResource.cache
+C:\Users\COVID-19\OneDrive - unibg.it\uni\Economia\project\test_1\Prova_1_econmics\Prova_1_econmics\obj\Debug\Prova_1_econmics.csproj.CoreCompileInputs.cache
+C:\Users\COVID-19\OneDrive - unibg.it\uni\Economia\project\test_1\Prova_1_econmics\Prova_1_econmics\obj\Debug\Prova_1_econmics.exe
+C:\Users\COVID-19\OneDrive - unibg.it\uni\Economia\project\test_1\Prova_1_econmics\Prova_1_econmics\obj\Debug\Prova_1_econmics.pdb

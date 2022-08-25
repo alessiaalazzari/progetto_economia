@@ -1,0 +1,13 @@
+C:\Users\COVID-19\OneDrive - unibg.it\uni\Economia\project\test_1\Prova_1_econmics\Prova_1_econmics\bin\x64\Debug\Prova_1_econmics.exe.config
+C:\Users\COVID-19\OneDrive - unibg.it\uni\Economia\project\test_1\Prova_1_econmics\Prova_1_econmics\bin\x64\Debug\Prova_1_econmics.exe
+C:\Users\COVID-19\OneDrive - unibg.it\uni\Economia\project\test_1\Prova_1_econmics\Prova_1_econmics\bin\x64\Debug\Prova_1_econmics.pdb
+C:\Users\COVID-19\OneDrive - unibg.it\uni\Economia\project\test_1\Prova_1_econmics\Prova_1_econmics\obj\x64\Debug\ProgettoEconomia.csprojAssemblyReference.cache
+C:\Users\COVID-19\OneDrive - unibg.it\uni\Economia\project\test_1\Prova_1_econmics\Prova_1_econmics\obj\x64\Debug\Prova_1_econmics.Form1.resources
+C:\Users\COVID-19\OneDrive - unibg.it\uni\Economia\project\test_1\Prova_1_econmics\Prova_1_econmics\obj\x64\Debug\Prova_1_econmics.Nuovo_progetto.resources
+C:\Users\COVID-19\OneDrive - unibg.it\uni\Economia\project\test_1\Prova_1_econmics\Prova_1_econmics\obj\x64\Debug\Prova_1_econmics.Progetto_importato.resources
+C:\Users\COVID-19\OneDrive - unibg.it\uni\Economia\project\test_1\Prova_1_econmics\Prova_1_econmics\obj\x64\Debug\Prova_1_econmics.Grafico.resources
+C:\Users\COVID-19\OneDrive - unibg.it\uni\Economia\project\test_1\Prova_1_econmics\Prova_1_econmics\obj\x64\Debug\Prova_1_econmics.Properties.Resources.resources
+C:\Users\COVID-19\OneDrive - unibg.it\uni\Economia\project\test_1\Prova_1_econmics\Prova_1_econmics\obj\x64\Debug\ProgettoEconomia.csproj.GenerateResource.cache
+C:\Users\COVID-19\OneDrive - unibg.it\uni\Economia\project\test_1\Prova_1_econmics\Prova_1_econmics\obj\x64\Debug\ProgettoEconomia.csproj.CoreCompileInputs.cache
+C:\Users\COVID-19\OneDrive - unibg.it\uni\Economia\project\test_1\Prova_1_econmics\Prova_1_econmics\obj\x64\Debug\Prova_1_econmics.exe
+C:\Users\COVID-19\OneDrive - unibg.it\uni\Economia\project\test_1\Prova_1_econmics\Prova_1_econmics\obj\x64\Debug\Prova_1_econmics.pdb
